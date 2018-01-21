@@ -1,0 +1,10 @@
+﻿Build started 09/03/2016 22:44:14.
+     1>Project "C:\Users\Max\Documents\Final game\v9\ConsoleApplication3\ConsoleApplication3.vcxproj" on node 2 (Build target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>Link:
+         ConsoleApplication3.vcxproj -> C:\Users\Max\Documents\Final game\v9\Debug\Game.exe
+     1>Done Building Project "C:\Users\Max\Documents\Final game\v9\ConsoleApplication3\ConsoleApplication3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.55

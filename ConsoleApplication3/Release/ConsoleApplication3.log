@@ -1,0 +1,103 @@
+﻿Build started 10/03/2016 16:03:08.
+     1>Project "C:\Users\Max\Documents\Final game\v9\ConsoleApplication3\ConsoleApplication3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt BabyHipHop.cpp Bullet.cpp DamageDonePowerUp.cpp Enemy.cpp HealthBar.cpp HealthBarPlayer.cpp HealthPowerUp.cpp Player.cpp PowerUp.cpp Source.cpp SpeedPowerUp.cpp UserInterface.cpp
+         BabyHipHop.cpp
+     1>BabyHipHop.cpp(14): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         Bullet.cpp
+     1>Bullet.cpp(11): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Bullet.cpp(22): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Bullet.cpp(35): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         DamageDonePowerUp.cpp
+         Enemy.cpp
+     1>Enemy.cpp(18): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Enemy.cpp(24): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>Enemy.cpp(289): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>Enemy.cpp(290): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>Enemy.cpp(302): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Enemy.cpp(322): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>Enemy.cpp(323): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+         HealthBar.cpp
+     1>HealthBar.cpp(55): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>HealthBar.cpp(56): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         HealthBarPlayer.cpp
+     1>HealthBarPlayer.cpp(25): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>HealthBarPlayer.cpp(28): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>HealthBarPlayer.cpp(48): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>HealthBarPlayer.cpp(51): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>HealthBarPlayer.cpp(76): warning C4244: 'return' : conversion from 'const float' to 'int', possible loss of data
+     1>HealthBarPlayer.cpp(83): warning C4244: 'return' : conversion from 'const float' to 'int', possible loss of data
+     1>HealthBarPlayer.cpp(90): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+         HealthPowerUp.cpp
+         Player.cpp
+     1>Player.cpp(20): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Player.cpp(74): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Player.cpp(75): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Player.cpp(100): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Player.cpp(101): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Player.cpp(122): warning C4018: '<' : signed/unsigned mismatch
+     1>Player.cpp(145): warning C4018: '<' : signed/unsigned mismatch
+         PowerUp.cpp
+         Source.cpp
+     1>Source.cpp(206): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Source.cpp(207): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>Source.cpp(222): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Source.cpp(326): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Source.cpp(336): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Source.cpp(347): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+     1>Source.cpp(367): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+     1>Source.cpp(377): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+     1>Source.cpp(448): warning C4018: '<' : signed/unsigned mismatch
+     1>Source.cpp(483): warning C4018: '<' : signed/unsigned mismatch
+     1>Source.cpp(524): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>Source.cpp(541): warning C4018: '<' : signed/unsigned mismatch
+     1>Source.cpp(551): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>Source.cpp(564): warning C4018: '<' : signed/unsigned mismatch
+     1>Source.cpp(729): warning C4018: '<' : signed/unsigned mismatch
+     1>Source.cpp(767): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Source.cpp(802): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Source.cpp(825): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Source.cpp(826): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Source.cpp(839): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>Source.cpp(840): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>Source.cpp(841): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>Source.cpp(1004): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Source.cpp(1023): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>Source.cpp(1108): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Source.cpp(1129): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>Source.cpp(1225): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>Source.cpp(1328): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>Source.cpp(1415): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Source.cpp(1419): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Source.cpp(1439): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>Source.cpp(1522): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Source.cpp(1551): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+         SpeedPowerUp.cpp
+         UserInterface.cpp
+     1>UserInterface.cpp(65): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>UserInterface.cpp(72): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>UserInterface.cpp(79): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>UserInterface.cpp(80): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>UserInterface.cpp(81): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>UserInterface.cpp(97): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Max\Documents\Final game\v9\Release\Game.exe" /INCREMENTAL:NO /NOLOGO "sfml-audio.lib" "sfml-graphics.lib" "sfml-main.lib" "sfml-network.lib" "sfml-system.lib" "sfml-window.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Max\Documents\Final game\v9\Release\Game.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Max\Documents\Final game\v9\Release\Game.lib" /MACHINE:X86 /SAFESEH Release\BabyHipHop.obj
+         Release\Bullet.obj
+         Release\DamageDonePowerUp.obj
+         Release\Enemy.obj
+         Release\HealthBar.obj
+         Release\HealthBarPlayer.obj
+         Release\HealthPowerUp.obj
+         Release\Player.obj
+         Release\PowerUp.obj
+         Release\Source.obj
+         Release\SpeedPowerUp.obj
+         Release\UserInterface.obj
+         Generating code
+         Finished generating code
+         ConsoleApplication3.vcxproj -> C:\Users\Max\Documents\Final game\v9\Release\Game.exe
+     1>Done Building Project "C:\Users\Max\Documents\Final game\v9\ConsoleApplication3\ConsoleApplication3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:16.33
